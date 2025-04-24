@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [https://veyronshark.github.io/Blog-preview-card-solution/](https://veyronshark.github.io/Blog-preview-card-solution/)
+- Live Site URL: [View site](https://veyronshark.github.io/FrontendMentor-blog-preview-card-solution/)
 
 ## My process
 
